@@ -7,7 +7,7 @@ export default class Student extends Component
     render()
     {
         return(
-        <h1>Student Class components</h1>
+        <h3>Student Class components</h3>
         )
         
     }
